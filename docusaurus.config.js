@@ -11,10 +11,10 @@ module.exports = {
   projectName: 'toolkit', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'WAVE',
+      title: '',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/wave_logo.png',
       },
       items: [
         {
@@ -26,7 +26,7 @@ module.exports = {
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/ericmand/wave',
-          label: 'GitHub',
+          label: 'Source Code',
           position: 'right',
         },
       ],

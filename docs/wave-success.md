@@ -19,16 +19,17 @@ replicators who want to incorporate our principles into their models, and busine
 have contracted WAVE to deliver customized programs for their work force in order to build
 their capabilities.
 
-## OMOTOLA ADEBANJI
-### BOARDED FOUR BUSES TO THE TRAINING CENTRE 
+## Alumni: Omotola Adebanji
+*BOARDED FOUR BUSES TO THE TRAINING CENTRE*
 
 Omotola rounded off her secondary school education at the Solpabag
 Royal College, Oko. As a result-driven individual, she was eager to
 discover her potential and apply herself to work.
-WAVE Success
+
 Omotola was unemployed when she heard about WAVE from a good friend of hers and
 decided to give it a try. She decided to enroll to learn soft skills and be well equipped on
 "how to succeed during an interview session."
+
 While at WAVE, Omotola was introduced to skills such as teamwork, good and effective
 communication, and time management. The major challenge she had during the training
 was the distance. She spent NGN2,000 a day on transportation, and boarded four buses
@@ -49,9 +50,8 @@ supports her family and caters for her mum’s well being.
 Her advice to job-seekers is “always believe in yourself, don’t ever think you can’t make it
 and never look down on yourself.
 
-## SULAIMON MUSTAPHA (BATCH 42)
-
-### I WAS ONCE ON THE STREET, SEEKING A JOB
+## Alumni: Sulaimon Mustapha (Batch 42)
+*I WAS ONCE ON THE STREET, SEEKING A JOB*
 
 Sulaimon is a secondary school graduate from Isah Williams High School,
 Iponri. He is self-motivated and committed to learning soft skills, after
