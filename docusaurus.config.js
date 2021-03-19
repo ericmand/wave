@@ -19,7 +19,7 @@ module.exports = {
       items: [
         {
           to: 'docs/',
-          activeBasePath: 'toolkit',
+          activeBasePath: 'docs',
           label: 'Toolkit',
           position: 'left',
         },
@@ -39,7 +39,7 @@ module.exports = {
           items: [
             {
               label: 'Introduction',
-              to: 'toolkit/',
+              to: 'docs/',
             },
           ],
         },
