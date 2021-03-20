@@ -83,7 +83,6 @@ designers and training developers. The five phases—Analysis, Design, Developme
 Implementation, and Evaluation—are guidelines for building effective training and
 performance support tools. Replicators can use the ADDIE model to build their curriculums.
 
-![Addie](/img/addie1.png)
 
 ### Needs Assessment
 
