@@ -172,3 +172,53 @@ pathway with top-performing trainees getting offered fulltime roles in many case
 At WAVE each trainee is linked to a job shadow assignment in the key industries WAVE
 trains for, i.e. retail and hospitality. This assignment usually occurs in the third and final
 week of training.
+
+### How to create job shadow program/opportunities for candidates
+
+1. Establish your goals for the job shadow program.
+2. Ensure there is at least one week of job shadow opportunities within program design. Job
+shadow opportunity should be in the industries you train for. Labour market research will
+reveal the relevant industry.
+3. During Labour market research, confirm if organizations will be interested in your
+organization’s job shadow program.
+4. During follow up meetings, make the case for the benefits of job shadowing for both EPs
+and candidates in order to register organizations for the program. Note: This is an
+ongoing process as your organization builds relationships with new EPs.
+5. Compose and send letters to organizations that express interest in your job shadow
+program in order to secure their commitment.
+6. Create process of matching candidates to job shadow opportunities. Note: matching
+process should be based on a candidate’s interest, their competencies, and
+competencies required for the job.
+7. Create a job shadow manual to brief candidates on expectations, and to reflect on and
+track progress.
+8. Create a job shadow assessment tool which will be used to obtain both candidate and
+EP’s feedback
+9. Provide opportunity for candidates to reflect publically on job placement i.e. formal
+presentation to class, poster presentation.
+
+### Internships
+
+An internship is often an unpaid job that provides alumni with some work
+experience. It is typically broader than a job shadow opportunity because the alumni is
+usually given some responsibilities and gets more involved in the activities of the
+organization.
+
+### Part-time work.
+
+Alumni can be employed within your organization on a part-time basis,
+similar to an internship, to help support operations. Within this capacity, the trainee can
+perform meaningful tasks that help reinforce the concepts at the training in addition to
+providing immediate feedback.
+
+### Self-employment
+Self-employment is working for one’s self. While alumni wait to be
+placed, the program should encourage self-employment as an option. This is possible by
+helping alumni identify and define their skill sets and how they can be translated to a
+service, which can be rendered for pay.
+
+### Self-placement
+While the organization aims to place alumni in paying jobs, the alumni
+should be his or her own primary job placement advocate. As a result, the program should
+have sessions focused on teaching alumni how to secure jobs for themselves. This often
+requires digital literacy skills, ability to create a reliable online profile, ability to cold call and
+seek for job vacancies in and around the community.

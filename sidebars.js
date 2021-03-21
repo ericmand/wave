@@ -29,10 +29,10 @@ module.exports = {
       label: 'Implementing',
       items: [
         'finding-applicants',
+        'screening-assessment',
         'training-delivery',
         'job-matching',
-        'alumni-support',
-        'screening-assessment'
+        'alumni-support'
       ],
     },
   ],
